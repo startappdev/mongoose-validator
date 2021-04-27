@@ -55,7 +55,7 @@
   ],
   "dependencies": {
     "is": "^3.2.1",
-    "validator": "^9.4.1"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
